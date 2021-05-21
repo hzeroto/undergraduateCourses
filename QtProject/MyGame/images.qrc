@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/huaji.png</file>
+        <file>image/huaji2 .png</file>
+        <file>image/huaji3.png</file>
+        <file>image/huaji4.png</file>
+        <file>image/background.jpg</file>
+        <file>image/background2.jpg</file>
+    </qresource>
+</RCC>

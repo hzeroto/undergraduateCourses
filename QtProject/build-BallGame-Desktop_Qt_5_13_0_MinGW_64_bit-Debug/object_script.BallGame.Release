@@ -1,0 +1,10 @@
+release/ball.o
+release/leftwidget.o
+release/main.o
+release/mainwindow.o
+release/paintlabel.o
+release/rightwidget.o
+release/moc_leftwidget.o
+release/moc_mainwindow.o
+release/moc_paintlabel.o
+release/moc_rightwidget.o

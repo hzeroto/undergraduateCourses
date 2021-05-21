@@ -1,0 +1,10 @@
+debug/ball.o
+debug/leftwidget.o
+debug/main.o
+debug/mainwindow.o
+debug/paintlabel.o
+debug/rightwidget.o
+debug/moc_leftwidget.o
+debug/moc_mainwindow.o
+debug/moc_paintlabel.o
+debug/moc_rightwidget.o
